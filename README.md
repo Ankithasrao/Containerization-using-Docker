@@ -20,8 +20,12 @@ java-app/
 │── README.md
 
 ```
-## Prerequisites
 ### Ensure you have the following installed on your machine:
-
-
+#### Ensure you have the following installed on your machine:
+``
+java -version ## (8+ version)
+mvn -version
+git --version
+docker --version
+``
 
