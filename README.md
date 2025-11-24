@@ -8,7 +8,7 @@
 #### 3. Same containers on different environment - Reusable and reputable
 
 ## Project Structure
-``
+```
 java-app/
 │── src/
 │   └── main/
@@ -18,6 +18,6 @@ java-app/
 │── Dockerfile
 │── .gitignore
 │── README.md
-``
+```
 
 
