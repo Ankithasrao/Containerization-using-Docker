@@ -27,5 +27,14 @@ java-app/
 - mvn -version
 - git --version
 - docker --version
-  
 
+### Docker - Build & Run
+#### Below are the command to build the image using a multi-stage build Dockerfile and running an images for creating a container.
+
+### Build Docker Image
+``
+docker build -t <NAME-OF-THE-IMAGE> .
+``
+``
+docker run <NAME-OF-THE-IMAGE>
+``
