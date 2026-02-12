@@ -1,4 +1,4 @@
-# Containerization-of-Java-project-using-Docker : 
+# Containerization-of-Java-project-using-Docker 
 ### This project demonstrates how to create a simple Java application, build it using Maven, and containerize it using a multi-stage Dockerfile for optimal efficiency.
 
 ## Why containerization is important :
